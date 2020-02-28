@@ -3,7 +3,7 @@ title: Lens
 description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
 baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author: Cong Le
 
 # Collection settings
 collections:
@@ -12,14 +12,14 @@ collections:
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
+github_url: https://github.com/CongLeSolutionX/
+gitlab_url: 
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+instagram_url: https://www.instagram.com/conglesolutionx/
+linkedin_url: https://www.linkedin.com/in/conglesolutionx/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/cong_le
 
 # Build settings
 markdown: kramdown
