@@ -1,6 +1,6 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
+title: Cong Le Photography
+description: Think Different!
 baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Cong Le
@@ -11,7 +11,7 @@ collections:
 
 # Social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/CongLeProgrammer
 github_url: https://github.com/CongLeSolutionX/
 gitlab_url: 
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
